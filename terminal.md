@@ -10,6 +10,8 @@
 - M大写(middle)移动到文件中间
 - L大写(lower)移动到文件底部
 - ctrl+o返回到上一个光标所在位置
+- ctrl+u(upward)向上翻页
+- ctrl+f(forward)向下翻页
 
 # 插入操作
 - I大写的表示代码段开头插入
