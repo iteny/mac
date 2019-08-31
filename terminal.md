@@ -8,3 +8,8 @@
 - x (delete one char)删除一个字符
 - diw 删除一个单词不包含空格  dw删除一个单词包含空格
 - dt(delete to char)表示删除到某一个字符
+
+# 快速修改
+- c (change)
+- ciw" 删除双引号里的内容
+- ci) 删除圆括号里的内容
