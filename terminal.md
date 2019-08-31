@@ -6,3 +6,5 @@
 - dw (delete word)删除一个单词
 - dd (delete one line)删除一行
 - x (delete one char)删除一个字符
+- diw 删除一个单词不包含空格  dw删除一个单词包含空格
+- dt(delete to char)表示删除到某一个字符
