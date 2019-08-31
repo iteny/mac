@@ -41,7 +41,7 @@ curl -sL --proto-redir -all,https https://raw.githubusercontent.com/zplug/instal
 # 复制 zshrc 文件
 
 ```
-# 复制我的 zshrc 文件，你可以删除相应的 fzf, thefuck 配置，brew install 相应的命令行工具
+# 复制我的 zshrc 文件，你可以删除相应的 fzf 配置，brew install fzf相应的命令行工具,终端检索文件
 cp mac_zshrc  ~/.zshrc
 source ~/.zshrc
 ```
