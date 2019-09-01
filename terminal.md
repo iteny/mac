@@ -48,5 +48,5 @@
 - y(yank)复制 p(put)粘贴
 - mac自带的vim不支持clipboard,需要brew install vim安装，alias vim='/usr/local/bin/vim'别名到新版本
 - vim --version查看一下clipboard是否已经支持
-- y(yank)复制 p(put)粘贴
+- vimrc中set clipboard=unnamed，持久化设置
 
