@@ -55,3 +55,8 @@
 - ds(delete a surrounding)删除成对ds "
 - cs(change a surrounding)修改成对cs ( ]
 - ys(yank a surrounding)增加成对ys "
+
+# fzf.vim文件，文本查询工具
+- leader+f是查询文件
+- leader+b是查询寄存器
+- leader+t是查询文本   如果要使用这个功能需要安装brew install the_silver_searcher
