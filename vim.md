@@ -51,3 +51,7 @@
 - vim --version查看一下clipboard是否已经支持
 - vimrc中set clipboard=unnamed，持久化设置
 
+# vim-surround成对编辑插件
+- ds(delete a surrounding)删除成对ds "
+- cs(change a surrounding)修改成对cs ( ]
+- ys(yank a surrounding)增加成对ys "
